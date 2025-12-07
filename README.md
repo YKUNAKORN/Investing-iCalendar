@@ -1,7 +1,5 @@
 # ICS Calendar Hosting with GitHub Pages
 
-This project provides a simple solution to host `.ics` calendar files using GitHub Pages, enabling public sharing and subscription via `webcal://` links. The goal is to make calendar events accessible and automatically updatable for applications like iPhone Calendar or iCalendar.
-
 ## Features
 - **Free Hosting**: Utilize GitHub Pages for free, reliable hosting of `.ics` files.
 - **Cross-Platform Support**: Share calendars for iOS, macOS, and other devices that support `webcal://`.
